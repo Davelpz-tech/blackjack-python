@@ -13,3 +13,23 @@ This is a Python-based command-line Blackjack game with:
    ```bash
    git clone https://github.com/Davelpz-tech/blackjack-python.git
    cd blackjack-python
+   
+💡 Features
+
+    Dealer hits until 17+
+
+    Player can bet and track balance
+
+    Multiple rounds supported
+
+    Graceful input handling
+
+🛠 Future Ideas
+
+    Splits & double down
+
+    GUI version
+
+    Multiplayer support
+
+Built as a portfolio project to demonstrate Python and CLI development skills.
